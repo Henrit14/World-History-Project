@@ -6,3 +6,21 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
 }
+p {
+  background-color: #d7d6d6;
+  border-radius: 5px;
+  box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.75);
+  width: 90%;
+  margin: auto;
+}
+.question {
+  width: 730px;
+}
+.part1 {
+  width: 100%;
+  height: 1800px;
+  border: 1px solid #000;
+}
+h3 {
+  text-align: center;
+}
