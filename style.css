@@ -117,3 +117,20 @@ video {
     opacity: 1;
   }
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+.card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #181b20;
+}
