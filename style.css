@@ -6,6 +6,7 @@ html {
 }
 body {
   font-family: 'Open Sans', sans-serif;
+  overflow: hidden
 }
 p {
   background-color: #d7d6d6;
@@ -133,4 +134,12 @@ img {
   margin-left: auto;
   margin-right: auto;
   background-color: #181b20;
+}
+.v1 {
+  margin: auto;
+  float: right;
+}
+.v2 {
+  margin: 0 auto;
+  float: left;
 }
