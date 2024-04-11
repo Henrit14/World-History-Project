@@ -11,7 +11,7 @@ body::-webkit-scrollbar {
   display: none;
 }
 p {
-  background-color: #d7d6d6;
+  background-color: #99846c;
   border-radius: 5px;
   box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.75);
   width: 90%;
@@ -124,9 +124,6 @@ video {
   }
 }
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   border-radius: 30px;
 }
 .card {
@@ -162,4 +159,31 @@ h4 {
   padding: 10px;
   margin: 10px auto;
   text-align: center;
+}
+.b {
+  border: 4px solid #e1e0e0;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px auto;
+  text-align: center;
+}
+.img2 {
+  left: -110%;
+  top: -300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto; 
+  margin-bottom: auto;
+  border-radius: 30px;
+}
+.img3 {
+  left: 110%;
+  top: -600px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto; 
+  margin-bottom: auto;
+  border-radius: 30px;
 }
