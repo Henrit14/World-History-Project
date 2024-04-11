@@ -6,7 +6,9 @@ html {
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  overflow: hidden
+}
+body::-webkit-scrollbar {
+  display: none;
 }
 p {
   background-color: #d7d6d6;
