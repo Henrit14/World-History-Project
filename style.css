@@ -172,19 +172,20 @@ h4 {
   text-align: center;
 }
 .img1 {
-  display: inline;
+  display: inline-block;
   width: 50px;
   margin: auto;
-  float: left;
 }
 .img2 {
-  display: inline;
+  display: inline-block;
   width: 50px;
   margin: auto;
 }
 .img3 {
-  display: inline;
+  display: inline=block;
   width: 50px;
   margin: auto;
-  float: right;
+}
+.imgp {
+  width: 200px;
 }
